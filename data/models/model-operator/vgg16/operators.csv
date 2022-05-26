@@ -1,0 +1,6 @@
+op_name,running time percentage
+dense,4.87
+conv2d,84.46
+relu,4.64
+bias_add,4.69
+batch_norm,1.34

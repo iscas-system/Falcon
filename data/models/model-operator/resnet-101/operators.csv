@@ -1,0 +1,8 @@
+op_name,running time percentage
+conv2d,81.24 
+batch_norm,3.53 
+multiply,3.98 
+relu,2.07 
+divide,3.15 
+add,3.04 
+negative,2.99 

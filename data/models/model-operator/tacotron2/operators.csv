@@ -1,0 +1,11 @@
+op_name,running time percentage
+strided_slice,5.83
+split,17.86
+concatenate,4.17
+dense,16.71
+add,8.93
+sigmoid,8.78
+multiply,29.88
+tanh,5.89
+concat,0.96
+conv1d,0.99

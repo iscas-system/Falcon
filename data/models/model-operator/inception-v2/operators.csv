@@ -1,0 +1,9 @@
+op_name,running time percentage
+conv2d,80.19 
+avg_pool2d,1.12 
+relu,3.16 
+add,3.28 
+multiply,4.56 
+divide,2.63 
+negative,2.52 
+sqrt,2.54 
